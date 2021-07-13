@@ -54,9 +54,11 @@
 		<meta id="collection-2" property="belongs-to-collection">Shakespeare’s First Tetralogy</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">4</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">King Edward IV’s brother, Richard of Gloucester, accedes to the English throne through deadly machinations.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;After the bloody battle at Tewksbury and the second dethroning of Henry VI, England and its citizens were finally able to enjoy peace under the reign of Edward IV. The remaining Lancastrian leaders were either killed or were scattered to the four winds with their heads still attached. Within the kingdom, not everyone is happy with their new king, and, due to Edward being sick, a chance to grab the royal seat has risen. Edward’s brother, Richard the Duke of Gloucester, is power-hungry and ready to kill everyone who stands between him and the crown.&lt;/p&gt;
+			&lt;p&gt;Richard sets into play his numerous schemes to eradicate the line of succession and control the court: the first victim is King Edward’s other brother, Clarence. Rumors lead to Clarence’s imprisonment in the Tower of London, and Richard sends two murderers to stab him to death. This leads to the worsening of Edward’s health; the title of Protector falls to the remaining brother. Next on his hit list is Lord Hasting, the loudest voice to object to Richard’s accession, who was arrested and executed for treason. To increase his power in the royal court, Richard plans to marry into an alliance with Lady Anne, who mourns for her late husband Henry VII.&lt;/p&gt;
+			&lt;p&gt;Before his death, King Edward had two sons and one daughter. For the line of succession to fall into his hands, he orders one of his closest lords to murder the young princes. All this death will come back to haunt him.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -65,7 +67,7 @@
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Richard_III</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.m.wikipedia.org/wiki/Richard_III_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_richard-iii</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
 		<meta property="file-as" refines="#author">Shakespeare, William</meta>
