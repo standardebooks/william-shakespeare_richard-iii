@@ -54,6 +54,8 @@
 		<meta id="collection-2" property="belongs-to-collection">Shakespeare’s First Tetralogy</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">4</meta>
+		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
 		<dc:description id="description">King Edward IV’s brother, Richard of Gloucester, ascends to the English throne through deadly machinations.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;After the bloody battle at Tewksbury and the second dethroning of Henry VI, England and its citizens are finally able to enjoy peace under the reign of Edward IV. The remaining Lancastrian leaders are either killed or scattered to the four winds. Within the kingdom, not everyone is happy with their new king—and when Edward falls ill, his power-hungry brother Richard, the Duke of Gloucester, sees his chance and prepares to kill anyone who stands between him and the throne.&lt;/p&gt;
