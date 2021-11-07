@@ -68,7 +68,7 @@
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
 		<meta property="se:word-count">31753</meta>
 		<meta property="se:reading-ease.flesch">80.62</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.m.wikipedia.org/wiki/Richard_III_(play)</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Richard_III_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_richard-iii</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
 		<meta property="file-as" refines="#author">Shakespeare, William</meta>
@@ -77,7 +77,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Edwin Austin Abbey</dc:contributor>
 		<meta property="file-as" refines="#artist">Abbey, Edwin Austin</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.m.wikipedia.org/wiki/Edwin_Austin_Abbey</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edwin_Austin_Abbey</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr89013851</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jeremy Hylton</dc:contributor>
