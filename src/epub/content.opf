@@ -28,8 +28,8 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Richard III</dc:title>
 		<meta property="file-as" refines="#title">Richard III</meta>
-		<meta property="se:alternate-title" refines="#title">Richard the 3rd</meta>
-		<meta property="se:alternate-title" refines="#title">Richard the Third</meta>
+		<meta property="dcterms:alternate" refines="#title">Richard the 3rd</meta>
+		<meta property="dcterms:alternate" refines="#title">Richard the Third</meta>
 		<dc:subject id="subject-1">Great Britain -- Kings and rulers -- Drama</dc:subject>
 		<dc:subject id="subject-2">Richard III, King of England, 1452-1485 -- Drama</dc:subject>
 		<dc:subject id="subject-3">Tragedies</dc:subject>
