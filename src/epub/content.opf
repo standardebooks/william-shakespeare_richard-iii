@@ -32,11 +32,11 @@
 		<meta property="file-as" refines="#title">Richard III</meta>
 		<meta property="dcterms:alternative" refines="#title">Richard the 3rd</meta>
 		<meta property="dcterms:alternative" refines="#title">Richard the Third</meta>
-		<dc:subject id="subject-1">Great Britain -- Kings and rulers -- Drama</dc:subject>
-		<dc:subject id="subject-2">Richard III, King of England, 1452-1485 -- Drama</dc:subject>
+		<dc:subject id="subject-1">Great Britain--Kings and rulers--Drama</dc:subject>
+		<dc:subject id="subject-2">Richard III, King of England, 1452-1485--Drama</dc:subject>
 		<dc:subject id="subject-3">Tragedies</dc:subject>
 		<dc:subject id="subject-4">Historical drama</dc:subject>
-		<dc:subject id="subject-5">Great Britain -- History -- Richard III, 1483-1485 -- Drama</dc:subject>
+		<dc:subject id="subject-5">Great Britain--History--Richard III, 1483-1485--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
